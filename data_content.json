@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "data_message": {
+      "text": "8 Şubat 2026 – Mutlu Pazarlar dileriz.",
+      "version": 2
+    },
+    "data_welcome": {
+      "text": "Uygulamamızı tercih ettiğiniz için teşekkür ederiz.<br><br>Mesai Takip Pro Faruk!",
+      "version": 1
+    },
+    "data_info": {
+      "text": "Bu hesaplama 2026 yılı verilerine göre hazırlanmıştır.<br><br>Önemli Not:<br>(Resmi belge niteliği taşımaz)",
+      "version": 1
+    }
+  }
+}
