@@ -1,8 +1,9 @@
 {
   "messages": {
     "data_message": {
-      "text": "9 Şubat 2026 – Hayırlı işler dilerim. Fero usta<br><br>Mesai Takip pro Ekibi",
-      "version": 4
+      "text": "Hayırlı işler dilerim.<br><br>Mesai Takip pro Ekibi: Şahin",
+      "data_nowdate": "2026-02-09",
+      "version": 5
     },
     "data_welcome": {
       "text": "Uygulamamızı tercih ettiğiniz için teşekkür ederiz.<br><br>Mesai Takip Pro Faruk!",
