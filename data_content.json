@@ -10,8 +10,8 @@
       "version": 1
     },
     "data_info": {
-      "text": "Bu hesaplama 2026 yılı verilerine göre hazırlanmıştır.<br><br>Önemli Not:<br>(Resmi belge niteliği taşımaz)",
-      "version": 1
+      "text": "Bu hesaplama 2026 yılı<br>1 Ocak - 1 Haziran tarihleri arası geçerli verilere göre hazırlanmıştır.<br><br>Önemli Not:<br>(Resmi belge niteliği taşımaz)",
+      "version": 2
     }
   }
 }
